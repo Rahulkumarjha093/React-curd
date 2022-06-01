@@ -1,0 +1,53 @@
+{
+  "idbi": [
+    {
+      "name": "Anshu",
+      "email": "anshu28@gmail.com",
+      "address": "Delhi",
+      "userId": 1,
+      "id": 1
+    },
+    {
+      "name": "Abhishek",
+      "email": "tech@gmail.com",
+      "address": "patna",
+      "userId": 2,
+      "id": 2
+    },
+    {
+      "id": 3,
+      "name": "Rahul",
+      "email": "rahul25@gmail.com",
+      "address": "mumbai"
+    },
+    {
+      "name": "Ashish",
+      "email": "ashish@gmail.com",
+      "address": "japan",
+      "id": 4
+    },
+    {
+      "name": "Sonu",
+      "email": "sonu23@gmail.com",
+      "address": "Noida",
+      "id": 5
+    },
+    {
+      "name": "Monu",
+      "email": "monu@test.com",
+      "address": "Goa",
+      "userId": 6,
+      "id": 6
+    }
+  ],
+  "comments": [
+    {
+      "id": 1,
+      "body": "some comment",
+      "postId": 1
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  }
+}
