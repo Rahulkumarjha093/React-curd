@@ -5,8 +5,14 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 ## Available Scripts
 
 In the project directory, you can run:
+  
+-->  npm install
 
 ### `npm start`
+
+Json Server Start
+
+--> json-server --watch db.json --port 2022
 
 Runs the app in the development mode.\
 Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
